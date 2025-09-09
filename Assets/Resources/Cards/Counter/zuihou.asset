@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4ac7078b6883745b62951ac08f9b36, type: 3}
+  m_Name: zuihou
+  m_EditorClassIdentifier: 
+  cardName: zuihou
+  type: 3
+  spriteName: zuihou
+  displayName: "\u6700\u540E\u7684\u6323\u624E"
+  description: "HP\u964D\u4E3A0\u65F6\u53EF\u4EE5\u53D1\u52A8\uFF0C\u4FDD\u75591HP\u4E14\u5230\u4E0B\u6B21\u81EA\u5DF1\u7684\u56DE\u5408\u7ED3\u675F\u4E0D\u80FD\u8FDB\u884C\u6218\u6597"
+  cost: 0

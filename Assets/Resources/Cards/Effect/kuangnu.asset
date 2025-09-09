@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4ac7078b6883745b62951ac08f9b36, type: 3}
+  m_Name: kuangnu
+  m_EditorClassIdentifier: 
+  cardName: kuangnu
+  type: 2
+  spriteName: kuangnu
+  displayName: "\u65E0\u80FD\u72C2\u6012"
+  description: "\u5BF9\u81EA\u5DF1\u4F7F\u7528,\u4E0B\u6B21\u53D1\u8D77\u6218\u6597\u65F6ATK+5,\u672A\u51FB\u8D25\u5BF9\u624B\u5219\u81EA\u5DF1\u660F\u8FF7"
+  cost: 3

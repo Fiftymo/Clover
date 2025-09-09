@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4ac7078b6883745b62951ac08f9b36, type: 3}
+  m_Name: def3
+  m_EditorClassIdentifier: 
+  cardName: def3
+  type: 1
+  spriteName: def3
+  displayName: "\u9632\u5FA1-\u5927"
+  description: "\u6B64\u6B21\u6218\u6597\u4E2DDEF+ 1~6"
+  cost: 3

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3e4ac7078b6883745b62951ac08f9b36, type: 3}
+  m_Name: boom
+  m_EditorClassIdentifier: 
+  cardName: boom
+  type: 2
+  spriteName: boom
+  displayName: "\u81EA\u7206\u5361\u8F66"
+  description: "\u5BF9\u81EA\u5DF1\u4F7F\u7528,\u6548\u679C\u6301\u7EED\u671F\u95F4ATK+2;\u81EA\u5DF1\u56DE\u5408\u7ED3\u675F\u65F6\u8FDB\u884C\u5224\u5B9A,\u82E5\u70B9\u6570\u4E3A1\u5219\u53D7\u52309\u4F24\u5BB3;\u53CD\u4E4B\u5C06\u6548\u679C\u8F6C\u79FB\u7ED9\u4E0B\u4E00\u4E2A\u73A9\u5BB6"
+  cost: 2
