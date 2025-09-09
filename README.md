@@ -11,7 +11,7 @@
 
 <img src="Screenshots/选角.png" width="600" />
 
-*角色选择界面，实现左右滚动及选角重复检测，仅房主有开始游戏选项*
+*角色选择界面，实现左右滚动及选角重复检测*
 
 <img src="Screenshots/移动.png" width="600" />
 
